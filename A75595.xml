@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Armies petition: or A nevv engagement of many in the Army, vvho are yet faithfull to the people: being a perfect relation of the late proceedings of the agents of divers regiments of horse : with the manner of their imprisonment, by some officers; with the petition of Col. Riches regiment to the generall for the release of their agents.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75595</idno>
+            <idno type="STC">Wing A3715</idno>
+            <idno type="STC">Thomason E438_1</idno>
+            <idno type="STC">ESTC R204746</idno>
+            <idno type="EEBO-CITATION">99864209</idno>
+            <idno type="PROQUEST">99864209</idno>
+            <idno type="VID">116432</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75595)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116432)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E438[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Armies petition: or A nevv engagement of many in the Army, vvho are yet faithfull to the people: being a perfect relation of the late proceedings of the agents of divers regiments of horse : with the manner of their imprisonment, by some officers; with the petition of Col. Riches regiment to the generall for the release of their agents.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Annotation on Thomason copy: "May 3d 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Military --  1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116432:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:116432:1" rendition="simple:additions"/>
+            <head>The Armies Petition: OR A NEW ENGAGEMENT Of many in the ARMY, Who are yet faithfull to the PEOPLE: Being a perfect Relation of the Late Proceed<g ref="char:EOLhyphen"/>ings of the <hi>Agents</hi> of divers Regi<g ref="char:EOLhyphen"/>ments of Horſe: With the manner of their impriſonment, by ſome Officers; with the <hi>PETITION</hi> of Col. <hi>Riches</hi> Regiment to the Generall for the Releaſe of their <hi>Agents.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>May 3<hi rend="sup">d</hi> 1648</add>
+                  </date>
+               </dateline>
+               <lb/>
+               <salute>Countrey-men,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">L</seg>Eaſt you ſhould be weary with inquiring, who w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l ſhew you any good? I have expended ſome time to ſearch out an Anſwer: but I cannot but firſt juſtifie you in your mournfull plaint, and I could bemoane your unhappy fate in depending upon falſe friends: your hopes were once raiſed by the Parliaments promiſes to deliver you from an Arbitrary Government, and to ſecure
+<pb n="2" facs="tcp:116432:2"/>your native Freedome, and to ſtudy alwayes to encreaſe your happineſſe; and your expectations I know were bigge when you had conquered the Common Enemy: but the Warre be<g ref="char:EOLhyphen"/>ing ended, their promiſes appeared to be but wind, and their fruit to you was but a whirl-wind, your Government was then by no other rule then the wills of men; Parliament Committees, and Countrey Committees were your abſolute Lords, and your burthens were doubled and trebled, and no other uſe was made of this opportunity put into the Parliaments hands then to continue themſelves ſitting at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> and to devide your Treaſure amongſt themſelves; as for your freedome, it was made a crime almoſt to name it, your very Petitions were burned, and Petitioners impriſoned.</p>
+            <p>In this extremity the Army interpoſed in <hi>Iune</hi> laſt to re<g ref="char:EOLhyphen"/>deeme you from your intended Vaſſalage, they gallantly chal<g ref="char:EOLhyphen"/>enged your Freedome as your due, and the price of their bloud; they promiſed to ſee your Liberty cleared and ſecured according to the Parliaments Declarations, and ſolemnly en<g ref="char:EOLhyphen"/>gaged to you, and each to other on <hi>Iune</hi> 5. 1647. not to Diſ<g ref="char:EOLhyphen"/>band untill they had ſufficient ſecurity for your freedome; but alas, how hath pride, covetouſneſſe, ambition, or affectation of an abſolute Dominion, blaſted all the promiſing buds of thoſe faire engagements! how is your hopefull remedy the Army become an aggravation of your ſlavery, they have made your yoaks heavier, and your burthens more grievous.</p>
+            <p>But Countrey-men, Let not your hearts faile you, ſuppoſe not the whole Army to conſpire in your ſlavery; take an im<g ref="char:EOLhyphen"/>partiall view of all paſſages ſince the Armies firſt Engagement at <hi>Newmarket,</hi> on <hi>Iune</hi> 5. 1647. and learne to diſtinguiſh be<g ref="char:EOLhyphen"/>tween your friends, and your oppreſſors.</p>
+            <p>You muſt underſtand that ſome private Soldiers in the ſe<g ref="char:EOLhyphen"/>verall Regiments, which engaged in the late Warre, conſcien<g ref="char:EOLhyphen"/>tiouſly for your <hi>freedom,</hi> were the ſole actors which engaged the whole Souldiery to ſtand unanimouſly to vindicate your native Freedoms, theſe were called <hi>Agitators.</hi> The grand Officers oppoſed the Souldiers firſt Petition, as long as it was for their advantage, and never concurred with them untill all danger was paſt; but having intereſted themſelves in the ſame Cauſe, although they ſolemnly engaged, that all things
+<pb n="3" facs="tcp:116432:2"/>ſhould be done by a Councell conſtituted of two Officers and two Souldiers to be choſen by every Regiment, yet their ſpirits could not beare any Co-partners with them in power, and therefore they firſt diſcouraged the <hi>Agitators</hi> as medling with matters which did not concern them, then they queſtioned their power, by whom indeed themſelves were ſetled in the power they had; and then they introduced all Officers into the Councels, when there was Coun<g ref="char:EOLhyphen"/>cels, and at laſt, they quite diſſolved the Councell, and ſome few (if not one alone) drew up a ſhort Declaration contrary to their firſt Engagement, and would have enforced all at the Rendevouz at <hi>Ware</hi> and <hi>Kingſtone</hi> to ſubſcribe it; ſo that by the Grand Officers wreſting all power out of the <hi>Agitators</hi> hands, this ſettlement of your Freedoms, and the removall of your grievances hath been prevented; yet the ſame honeſt Souldiers in <hi>November</hi> laſt, attemp<g ref="char:EOLhyphen"/>ted the ſame ſettlement as at firſt, but the Grand Officers im<g ref="char:EOLhyphen"/>priſoned the <hi>Agents,</hi> and threatned them all with death.</p>
+            <p>Yet ſo reſtleſſe are the ſpirits of the honeſt Souldiers, and ſo deare is the Freedom of their Countrey to them, that the Officers threat<g ref="char:EOLhyphen"/>nings of death cannot daunt them, and therefore they have been and are again endeavouring to fulfill their firſt Engagements, and to prevent obſtructions, they reſolved to proceed in the moſt humble way of Petitioning, and to that purpoſe, drew that Peti<g ref="char:EOLhyphen"/>on which you may hereafter read in this Paper; having prepared their Petition, they deſired a meeting of ſome Souldiers of ſeve<g ref="char:EOLhyphen"/>rall Regiments of Horſe, to conſider of the moſt ſpeedy way to offer the Petition to all the Souldiers for their Subſcriptions, ac<g ref="char:EOLhyphen"/>cordingly ſome met at S. <hi>Allians</hi> about the 24 of <hi>April,</hi> and Col<g ref="char:EOLhyphen"/>lonell <hi>Riches</hi> Regiment choſe one of every Troop to meet there and give them an account of their proceedings, but being met to<g ref="char:EOLhyphen"/>gether, Cap. <hi>Brown,</hi> Cap. <hi>Cladman,</hi> Cap. <hi>Packer,</hi> and other Officers ruſhed violently into the place, where they were met, and impri<g ref="char:EOLhyphen"/>ſoned all their perſons, and carryed them to <hi>Windſor,</hi> where they remaine Priſoners.</p>
+            <p>Now yee people of <hi>England,</hi> whether theſe Priſoners be your friends, I referre to your own judgements, let the Petition which they were promoting, and joyning in with the Eaſtern Aſſociation, let that ſpeak for them.</p>
+            <p>The true Coppy thereof here follows.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <pb n="4" facs="tcp:116432:3"/>
+                        <head>To the honourable the Commons of <hi>England</hi> aſſembled in Parliament. The humble Petition of many Officers and Souldier in the Army.</head>
+                        <opener>Sheweth,</opener>
+                        <p>THat firſt we ingaged in Iudgement and conſcience, to oppoſe the King in aſſuming to himſelfe a power Superiour to yours, declaring all your Orders to be void and nul without his conſent, in his clayming an abſolute power over the <hi>Militia,</hi> and in his en<g ref="char:EOLhyphen"/>deavours to make the Government wholly Arbitray, and himſelfe unaccountable; and you for your parts were ingaged to reſtore us to our native Freedomes, if God gave good ſucceſſe to that war, that when the common enemy was ſubdued they ſhould thirſt after our native Freedoms, prevailed with us to concurr with you in a new engagement, in oppoſition to a potent party in the houſe which in<g ref="char:EOLhyphen"/>vaded our liberties, and endeavoured to perpetuate this Parl, and inſlave us againe to Arbitrary power; and you were pleaſed then to give us hopes by divers Votes, that the happy ends of our former and latter Engagements ſhould be made good to us, and the whole Nation; that nevertheleſſe we ſee the oppreſſions of the people as far from being removed or leſſened, as if our ranſome coſt no blood, and yet we find our ſelves to be rendred the burthen and diſturbers of the Nation, by the daily out cryes againſt us for not ſtanding up for luſtice and Freedome, according to your and our promiſes and Declarations; and although we doe gratefully acknowledge theſe hopefull Votes that no more addreſſes ſhould be made to, nor recei<g ref="char:EOLhyphen"/>ved from the King; yet hitherto we ſee no Iuſtice or common free<g ref="char:EOLhyphen"/>dom hath followed thoſe Votes: that the ſence of our duty to the Country, and that feare of compulſion which threatens the Com<g ref="char:EOLhyphen"/>mon Wealth through the generall diſcontent of the people pro<g ref="char:EOLhyphen"/>vokes us to ſollicite in their behalfes: that the engagements firſt and laſt, and the many pretences of this houſe to make the Nation free, may at laſt be fulfilled and performed; We humbly repreſent our former deſires with a more full explanation of our intention therein. As firſt that a period of time be prefixed when the Parlia<g ref="char:EOLhyphen"/>ment ſhall certainly end. 2. That of courſe every ſecond yeare there be a free and equall election of repreſentatives by the people, to make their Lawes free without obſtructions or interrup<g ref="char:EOLhyphen"/>tions, by the pretences of any man whomſoever, to a negative voice or check upon them: that ſo no Engliſh man may be bound but by his repreſentatives without which there is no freedom. 3. That
+<pb n="5" facs="tcp:116432:3"/>there be a known and certain rule between the people and their repre<g ref="char:EOLhyphen"/>ſentatives that are choſen and intruſted with that ſupreame power of making Lawes; as firſt, that the time of their continuance of truſt be certaine, and that their meeting be diſſolved of courſe at ſome prefix<g ref="char:EOLhyphen"/>ed period of time. And 2. that it be declared, that their power extends not to inforce and compell the conſciences of any in the mat<g ref="char:EOLhyphen"/>ter of Gods worſhip: wherein none can without wilfull ſin conſent, remit, orexceed one title what their conſciences dictates to them to be the will of God. 3. That their power extends not to preſſe or inforce any mans perſon to ſerve in War. And 4. that it be declared to be intended by the people in their truſt, that all Laws to be made by them may be equall and alike, binding unto every Engliſh man, without reſpect to Birth, Tennor, Pattent, Place, Office or any other pretended priviledge, and that they ſhall not make ſuch Laws as ſhall be clearely and evidently diſtructive to their lives, properties, and liberties. And 5. that for ſecurity of all perſons engaged in the publick difference ſince 1640. It be declared that no repreſentatives of the people after the end of this preſent Parliament ſhall have power to intermeddle with thoſe matters of publique difference; otherwiſe then in execution of their judgement: And we deſire that this rule between the people and the repreſentarives, may be inſerted into a contract to be ſealed between the people and all their repreſentatives, upon the dayes of their ſeverall elections reſpectively; and that all the foregoing particulars being eſſen<g ref="char:EOLhyphen"/>tiall to freedome, may be ſetled by an Agreement among the people.</p>
+                        <p n="4">4. That there be a regulated courſe of juſtice ſetled, and all ar<g ref="char:EOLhyphen"/>bitrary powers aboliſhed as farre as may be.</p>
+                        <p n="5">5. That all dangerous Preſidents of preventing the people from, and impriſoning of, and declaring them as enemies to the State, for pet<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tioning may be taken away, and that undoubted right of theirs publickly cleared. 6. That accounts be given to the people of their diſburſments of the valle Summes of money leavied and paid; and that hence forth all publick char<g ref="char:EOLhyphen"/>ges be exactly computed, and only monies proportionable leavied, and that the accounts be open to the view of all men, and frequently publiſhed: 7 That all Priſoners according to the intent of the Law be brought to a ſpeedy hearing, and juſt triall. And that ſuch as are unjuſtly impriſoned may with their liberties have due reparations. 8. That the antient and almoſt antiquated badge of ſlavery, that is, all baſe Tenures of Lands, as by Copyes and Fines at will, by oathes of fealty, homage &amp;c. (the Conquerours brand upon the people) may be taken away, and to that end, that a proportionable value be ſet, at which the Poſſeſ<g ref="char:EOLhyphen"/>ſours of Land ſo holden, may purchaſe themſelves free-holders, which if not wil<g ref="char:EOLhyphen"/>ling, or not able to doe, that then after a prefixed period of time, all ſuch duties and ſervices may deſcend into, and from that time become a certaine rent, that by this meanes perſons diſaffected to the welfare and freedom of the Nation may be pre<g ref="char:EOLhyphen"/>vented
+<pb n="6" facs="tcp:116432:4"/>from drawing men to a War againſt themſelves, by vertue of an awe upon them by ſuch dependant Tenures.</p>
+                        <p>Theſe things we humbly pray may be done, ſe led, and provided forthwith, that ſo ſpeedy proceedings may be made to redreſſe the other common grievances of the prople; that our Lawes and all proceedings therein may be in Engliſh, and the innumerable abuſes thereof remedied, and the places for miniſtration of juſtice and juſtice it ſelfe may no longer be bought and ſold, that Monopolies may be aboliſhed and care taken to renew the decayed trade of the Nation, that the poor may be provided for, and none ſuffered to beg their bread; that publick d<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>bts may be computed and put into ſome probable way of being ſatisfied; the burthens of tythes, exciſe, and whatſoever elſe is juſtly grievous may be remo<g ref="char:EOLhyphen"/>ved: And unleſſe theſe prudent foundations of freedom and juſt Go<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ernment m<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y re<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſt<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>l<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſhed, we conceive that neither you nor we can ſatisfie our conſciences, that ſo much blood hath been ſhed in the proſecution thereof, or in continuing an Army, who c<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nt<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ary to their own deſire are conſtrained to live upon the labours of others for nought, and therefore deſire that ſufficient indempnity may be pro<g ref="char:EOLhyphen"/>v<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ded for all o<gap reason="illegible" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap> engagements whatſoever, with either Parliament or Army, in all things done in order to our utmoſt proſecution thereof; that accounts may be juſtly ſtated, that ſome conſiderable part of the Souldiers arreares may be given them, and good ſecurity for the remainder; and that we may be diſcharged from this preſent imployment, either to returne quietly to our ſeverall callings, if we can beare the yoake of our ſlavery, or otherwiſe to depart the Nation, to ſeek our freedome in ſome wilderneſſe.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>THe impriſonment of the Agents for preparing this Petition, much affected the Soldiery of Col. <hi>Riches</hi> Regiment, and with all ſpeed they framed a Petition to the Generall for the releaſe of their Agents. The Copy thereof here followeth</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To his Excellency <hi>Thomas</hi> Lord <hi>Fairfax</hi> Captain Generall of the Forces under the Command of the <hi>Parliament.</hi>
+                        </head>
+                        <head>The humble Petition of the Souldiers of Colonel <hi>Rich</hi> his Regiment,</head>
+                        <opener>Sheweth,</opener>
+                        <p>THat as in Iudgement and conſcience, we firſt engaged in the late warre, for our Native rights and freedomes, ſo likewiſe upon the ſame account, we refuſed to Disband, and entrea<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o a ſolemne Engagement at <hi>New. Market,</hi> when our freedoms were invaded, and the fundamentall right of Petitioning denied us.</p>
+                        <p>That upon the ſame ground, after much patience in waiting for the ſecuring our commer. Rights according to the Engagement, we intruſted ſeverall of our fellow Souldiers to meet with ſome of other Regiments at <hi>S. Albans,</hi> to give us an account of their proceedings.</p>
+                        <p>That while they were proceeding in a moſt unqueſtionable just way of preparing a Pe<g ref="char:EOLhyphen"/>tition, they were violently ſeized upon, and impriſoned, all which (if it were done by Order from your Excellency) we hope did proceed from a miſunderſtanding of our, and their meaning and intentions.</p>
+                        <pb n="7" facs="tcp:116432:4"/>
+                        <p> That our fellow Souldiers being employed by us as Agents in our behalfe, we eſteeme our ſelves obliged both in conſcience and honour to be Copartners with them in whatſoever condition they are, or ſhall be involved by reaſon of that imployment: and our reſoluti<g ref="char:EOLhyphen"/>ons are to adhere faithfully to them, in the vindication of their innocent intentions, in proſecuting our ſolemn Engagement, or to ſuffer equally with them.</p>
+                        <p>Your Petitioners therefore humbly pray, that our ſaid Agents now under reſtraint may be forthwith releaſed, according to the preſent urgent ne<g ref="char:EOLhyphen"/>ceſſities, and without further deſcanting delayes, which have already made us odious to the people, we may all joyne together, and effectually endeavour to fulfill our firſt engagements to the people, and each to the other, by ſetling and ſecuring the Nations common Rights and Freedomes.</p>
+                        <closer>And they ſhall pray &amp;c.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>THe Regiment employed two Soldiers to preſent this Petiti<g ref="char:EOLhyphen"/>on, and after the Grand Officers had long conſulted, they called in the Meſſengers, and deſcanted ſtrangely upon the Pe<g ref="char:EOLhyphen"/>tition, and examined them upon Interogatories, <hi>as who deli<g ref="char:EOLhyphen"/>vered it to them, and whom they ſee ſubſcribe it;</hi> but the meſſengers re<g ref="char:EOLhyphen"/>fuſed to betray their liberties in anſwering Interogatores, and told them they were employd by the Regiment to deliver the Petition and their Subſcriptions wree annexed, and they had no other meſſage, then they threatned them with death ſeverally, but yet they ſaid at laſt they would ſhew them mercy, and ſo releaſed them.</p>
+            <p>Now Countrey-men, conſider how deeply you are concerned in the impriſonment of theſe your friends, judge whether your Freedoms can ever be ſecured, unleſſe the foregoing Petition be granted, and judge how deſperate your condition is, if once your Liberty of Petitioning be loſt, if it ſhall be a crime to meet and conſider how to beg for your Right, unto what lower degree of ſlavery, can you be reduced? The Parli<g ref="char:EOLhyphen"/>ament have declared it, to be their duty to receive Petitions though a<g ref="char:EOLhyphen"/>gainſt eſtabliſhed Lawes: Theſe are their words in their Declaration of <hi>Sept.</hi> 2. 1642. 1. book Decla. <hi>p.</hi> 532. <hi>We acknowledge wee have recei<g ref="char:EOLhyphen"/>ved Petitions for the removeall of things eſtabliſhed by Law, and we must ſay, and all that know what belong to the courſe and practice of Parli<g ref="char:EOLhyphen"/>ments, will ſay, that we ought to doe ſo, and the Liberty of Petitioning, being the loweſt degree of freedom;</hi> the invaſion of that was the firſt oc<g ref="char:EOLhyphen"/>caſion of the Armies refuſall to disband, and engaging againſt <hi>Hollis</hi> his Faction; therefore I ſay again, conſider whether neceſſity do not now require your ſpeedy aſſiſtance of theſe your Friends, who have thus conſtantly endeavoured and hazarded themſelves for your freedome; and obſerve good people, it is not the Souldiery that enſlave you, but they are enſlaved equally with you, they are denyed the common right of petitioning, and for your ſakes they ſuffer.</p>
+            <pb n="8" facs="tcp:116432:5"/>
+            <p>
+               <label>Object.</label> But it will be objected that the grand Officers oppoſe not the Freedome, which the Souldiers thus proſecute, but the irregular maner of their proſecution of it.</p>
+            <p>
+               <label>Anſw.</label> Wherein can it be ſaid they have been irregular, is it in Petitioning with<g ref="char:EOLhyphen"/>out their Officers; was there ever ſuch a band upon the Souldiers, either by the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w or Reaſon, that they ſhould not Petition without their Officers? ſhall not the Souldiers begge for what they want, unleſſe they pleaſe? but ſuppoſe there be ſome irregularity, in riding from one Regiment to another without licence from their Officers or diſputing ſuch Commands, yet who could have imagined that the Officers of this Army ſhould dare to object it againſt the Souldiery: will not the neceſſity of ſuch actings juſtifie the ſeeming irregularities; was not that all their plea in <hi>Iune</hi> laſt, when they were irregular in the higheſt degree, and rejoyced and applauded the Souldiers for their being irregular; and was it not upon the ſame ground that they oppoſed the Parliament, becauſe they made an Order to ſuppreſſe a Petition amongſt the Souldery, and declared thoſe Enemies to the State that promoted it, and though that Petition was promoted contrary to the Officers minds, and C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l. <hi>Rich</hi> and others ſent expreſſe Orders to ſuppreſſe it, and though the Par<g ref="char:EOLhyphen"/>liament proceeded not to impriſon ſuch as act about it; yet when they were in<g ref="char:EOLhyphen"/>tereſted in it, they declared, in their Repreſentation of <hi>Iune</hi> 5. that that Preſident of the Parliaments Order to ſuppreſſe the Petition, if it ſhould ſtand good, did tend in the conſequence of it, to render all Souldiers under this Parliament the worſt of ſlaves, and all ſubjects little better: and the like they declared in the Remonſtr. of <hi>Iune</hi> 13. but beſides, is it more irregular to diſpute an Officers Command then to diſpute the Parliaments Orders, and did not the Generall, and the Lievtenant Generall countenance the Souldiers, and approve them, when they reſolved a Ren<g ref="char:EOLhyphen"/>devous without the Generall, if he would not Order it, and were any of the Souldi<g ref="char:EOLhyphen"/>ers di<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>countenanced when they diſmounted, beat and houted out of the field ſuch Officers as would have obeyed the Parliaments Commands? and ſurely, none will ſay there is not now the ſame neceſſity to juſtifie theſe actings as was then; nay, is not the neceſſity farre greater? the Liberties of the people are neither cleared nor ſecured, the very right of Petitioning, is in a higher manner invaded, more are now impriſoned for Petitioning and meeting about Petitions, then ever ſince <hi>England</hi> ſtood, and not only the Parliament, but the Army is now ſo odious to the people for breaking their firſt promiſes and engagements, that the people are ready to out the throats of all Souldiers without diſtinction, and the whole Nation is ready to periſh with diſtractions and diſcontents through want of a ſettlement.</p>
+            <p>Now ſet all Engliſh men and all Souldiers conſider, whether they may not bid adiew to Freedom, if they ſuffer their friends to want aſſiſtance in proſecuring their firſt Engagements. Col. <hi>Riches</hi> Regiment have been conſtrained to reſcue ſome of their <hi>Agents</hi> from Priſon, and therefore they expect now the immediate aſſiſtance of all honeſt men in every Regiment.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
